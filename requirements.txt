@@ -17,3 +17,5 @@ pandas
 sklearn
 gunicorn
 mlxtend
+flask_cors
+flask_restful
