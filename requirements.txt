@@ -16,3 +16,4 @@ numpy
 pandas
 sklearn
 gunicorn
+mlxtend
